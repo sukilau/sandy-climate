@@ -8,3 +8,5 @@ Link: https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-d
 Location : Sandy, Utah, United States
 
 Data Viz : A line graph of the record high and record low temperatures by day of the year over the period 2005-2014. 
+
+<img src="graph.svg">
