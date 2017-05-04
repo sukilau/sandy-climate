@@ -1,5 +1,5 @@
 # sandy-climate
-<h2>Daily Temperature Records in Sandy, Utah, United States</h2>
+<h2>Data Visualization - Daily Temperature Records in Sandy, Utah, United States</h2>
 
 Data Source :  The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe. 
 
